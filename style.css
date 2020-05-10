@@ -82,7 +82,7 @@ body::-webkit-scrollbar-track:active {
 }
 
 .container-body {
-    padding: 1.75rem;
+    padding: 2rem 3rem;
     min-height: 100vh;
     max-width: 1920px;
     margin: 0 auto;
