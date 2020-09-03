@@ -400,3 +400,14 @@ body::-webkit-scrollbar-track:active {
     }
 
 }
+
+@media (max-width: 400px) { 
+    .header_search {
+        display:none;
+    }
+    .header_logo {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
