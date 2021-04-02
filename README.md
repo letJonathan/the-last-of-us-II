@@ -1,5 +1,4 @@
 # Website of the game "The Last of Us II".
-The landing page design for "The Last of Us II" [DEMO => letjonathan.github.io/the-last-of-us-II](https://letjonathan.github.io/the-last-of-us-II)  
-I have coded this design which was originally designed by [@41eu_](https://www.instagram.com/41eu_/) specifically in [this post](https://www.instagram.com/p/B-w2sLdDs1u/)
+The landing page design for "The Last of Us II" [DEMO => https://letjonathan.github.io/leadsuitemarketing/](https://letjonathan.github.io/leadsuitemarketing/)
 
-![](./img/thumnail.jpg)
+![https://imgdb.net/storage/uploads/df15083f93c204d80a9d471e05b0efffc32162c197d0cd742d896f195c126fb0.png]()
